@@ -1,0 +1,10 @@
+c:\users\karolek\documents\visual studio 2017\Projects\WinFormsOddEvenInfoTxt\WinFormsOddEvenInfoTxt\bin\Debug\WinFormsOddEvenInfoTxt.exe.config
+c:\users\karolek\documents\visual studio 2017\Projects\WinFormsOddEvenInfoTxt\WinFormsOddEvenInfoTxt\bin\Debug\WinFormsOddEvenInfoTxt.exe
+c:\users\karolek\documents\visual studio 2017\Projects\WinFormsOddEvenInfoTxt\WinFormsOddEvenInfoTxt\bin\Debug\WinFormsOddEvenInfoTxt.pdb
+c:\users\karolek\documents\visual studio 2017\Projects\WinFormsOddEvenInfoTxt\WinFormsOddEvenInfoTxt\obj\Debug\WinFormsOddEvenInfoTxt.OddEvenInfoText.resources
+c:\users\karolek\documents\visual studio 2017\Projects\WinFormsOddEvenInfoTxt\WinFormsOddEvenInfoTxt\obj\Debug\WinFormsOddEvenInfoTxt.Properties.Resources.resources
+c:\users\karolek\documents\visual studio 2017\Projects\WinFormsOddEvenInfoTxt\WinFormsOddEvenInfoTxt\obj\Debug\WinFormsOddEvenInfoTxt.csproj.GenerateResource.cache
+c:\users\karolek\documents\visual studio 2017\Projects\WinFormsOddEvenInfoTxt\WinFormsOddEvenInfoTxt\obj\Debug\WinFormsOddEvenInfoTxt.csproj.CoreCompileInputs.cache
+c:\users\karolek\documents\visual studio 2017\Projects\WinFormsOddEvenInfoTxt\WinFormsOddEvenInfoTxt\obj\Debug\WinFormsOddEvenInfoTxt.exe
+c:\users\karolek\documents\visual studio 2017\Projects\WinFormsOddEvenInfoTxt\WinFormsOddEvenInfoTxt\obj\Debug\WinFormsOddEvenInfoTxt.pdb
+c:\users\karolek\documents\visual studio 2017\Projects\WinFormsOddEvenInfoTxt\WinFormsOddEvenInfoTxt\obj\Debug\WinFormsOddEvenInfoTxt.csprojResolveAssemblyReference.cache
